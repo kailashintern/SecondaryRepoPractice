@@ -2,24 +2,24 @@
 using System.IO;
 
 
-/*namespace ConsoleProject.Exceptionhandling
-{*/
-    /*public class DemoException
+namespace ConsoleProject.Exceptionhandling
+
+    public class DemoException
     {
         static void Main()
-        {*/
+        {
 
-    /*  String path = @"F:\Data.txt";
+     String path = @"F:\Data.txt";
       string content = "writen from code";
 
      System.IO.File.WriteAllText(path, content);
 
       Console.WriteLine("file created");
-*/
 
 
-    // to read a file
-    /*string path2 = "F:\\filess\\Dataa.txt";
+
+    to read a file
+    string path2 = "F:\\filess\\Dataa.txt";
 
 
     try
@@ -52,10 +52,10 @@ using System.IO;
     finally
     {
 
-       *//* if (r != null)
+        if (r != null)
         {
 
-        }*//*
+        }
 
         Console.WriteLine("finally block executed");
 
@@ -64,7 +64,7 @@ using System.IO;
 
 
 }
-}*/
+}
 
 
     /* public class InnerExceptio
