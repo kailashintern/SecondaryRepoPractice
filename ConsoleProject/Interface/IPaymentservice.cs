@@ -1,4 +1,4 @@
-﻿using ConsoleProject.Interface;
+﻿/*using ConsoleProject.Interface;
 using System;
 
 
@@ -6,7 +6,7 @@ namespace ConsoleProject.Interface
 {
     public interface IPaymentservice
     {
-        bool PaymentMethod(decimal amount );
+        bool PaymentMethod(decimal amount);
 
 
 
@@ -30,3 +30,4 @@ public class Card : IPaymentservice
         card.PaymentMethod(5.00m);
     }
 }
+*/
