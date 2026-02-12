@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.IO;
 
 
@@ -67,7 +67,7 @@ namespace ConsoleProject.Exceptionhandling
 }
 
 
-    /* public class InnerExceptio
+    *//* public class InnerExceptio
      {
 
          public static void Main()
@@ -118,7 +118,7 @@ namespace ConsoleProject.Exceptionhandling
     /*       }
        }
    }
-   */
+   *//*
 
 
 
@@ -193,3 +193,4 @@ namespace ConsoleProject.Exceptionhandling
         }
 
     }
+*/
