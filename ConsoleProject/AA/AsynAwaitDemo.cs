@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 
 
 
@@ -42,7 +42,7 @@ namespace ConsoleProject.AA
 
 
 
-           /* Console.WriteLine("asyn started");
+           *//* Console.WriteLine("asyn started");
 
             Console.WriteLine("third method");
             Thread.Sleep(3000);
@@ -56,7 +56,7 @@ namespace ConsoleProject.AA
 
             Console.WriteLine("started thread");
             Thread.Sleep(5000);
-            Console.WriteLine("ended thread");*/
+            Console.WriteLine("ended thread");*//*
 
 
 
@@ -66,3 +66,4 @@ namespace ConsoleProject.AA
 
     }
 }
+*/
